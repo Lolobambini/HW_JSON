@@ -1,9 +1,9 @@
 {
-  "skill": "Postman"
-           "Jmeter"
-           "CheckLists"
-           "Bag Reports"
-           "SQL"
-           "Charles"
-           "Mobile testing"
-}
+  "skill": ["Postman",
+         	  "Jmeter",
+           	  "CheckLists",
+         	  "Bag Reports"
+         	  "SQL",
+        	  "Charles",
+       		  "Mobile testing"]
+	}
